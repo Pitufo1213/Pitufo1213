@@ -6,5 +6,9 @@
     "Pitufo": {
         "banneduntil": "3020/01/26",
         "BanReason": "Fat"
+    },
+    "Tacostorm": {
+        "banneduntil": "2099/2/2",
+        "BanReason": "Done"
     }
 }
